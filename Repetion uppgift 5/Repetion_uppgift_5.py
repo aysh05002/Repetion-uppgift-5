@@ -1,5 +1,6 @@
 from math import sqrt
 
+print("x^2 + px + q = 0")
 p=int(input("Skriv vad p i pq formeln ska vara: "))
 q=int(input("Skriv vad q i pq formeln ska vara: "))
 
